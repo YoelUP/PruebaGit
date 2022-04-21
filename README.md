@@ -1,5 +1,5 @@
 # PruebaGit
-Estoy probando Git Y Github
+Testing Git Y Github
 
-Author: Yoel;
-Line #5
+Author: Yoel Urena Prado;
+
